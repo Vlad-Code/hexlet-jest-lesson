@@ -1,1 +1,1 @@
-# hexlet-jest-lesson
+My first learning work with Jest 

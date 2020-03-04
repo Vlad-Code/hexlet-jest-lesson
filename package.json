@@ -1,0 +1,28 @@
+{
+  "name": "hexlet-jest-lesson",
+  "version": "1.0.0",
+  "description": "jest learning package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad-Code/hexlet-jest-lesson.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Vladislav Kungurov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad-Code/hexlet-jest-lesson/issues"
+  },
+  "homepage": "https://github.com/Vlad-Code/hexlet-jest-lesson#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
